@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Blog</title>
+    <description>concrete5 Blog</description>
+    <generator>Zend_Feed_Writer 2 (http://framework.zend.com)</generator>
+    <link>https://theflatearthsociety.org/home/index.php/blog</link>
+    <item>
+      <title>Lunar Eclipses and the Shadow of the Earth</title>
+      <description><![CDATA[In this series we will be dispelling a number of globularist claims. This week we take a look at lunar eclipses in the ball model and using the Parallaxian mindset put forth by Samuel Rowbotham showing the globe earth theory to be incoherent with observed phenomena.]]></description>
+      <pubDate>Thu, 01 Sep 2016 01:14:55 +0000</pubDate>
+      <link>https://theflatearthsociety.org/home/index.php/blog/lunar-eclipses-and-shadow-earth</link>
+      <guid>https://theflatearthsociety.org/home/index.php/blog/lunar-eclipses-and-shadow-earth</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Flat Earth Clues: Exclusive Interview with Mark Sargent</title>
+      <description><![CDATA[Mark Sargent, known for his many interviews with subject matter experts on YouTube, sits down and has a flat chat with us.]]></description>
+      <pubDate>Sun, 31 Jul 2016 07:57:00 +0000</pubDate>
+      <link>https://theflatearthsociety.org/home/index.php/blog/flat-earth-clues-mark-sargent</link>
+      <guid>https://theflatearthsociety.org/home/index.php/blog/flat-earth-clues-mark-sargent</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Early Parallaxian Theory In a Nutshell</title>
+      <description><![CDATA[In this article we take a look into the theories of Samuel Rowbotham and his followers and successors. Wildly influential, we still see much of his work alive today in modern theory. Every flatist should have a working knowledge of his work as it's reach is broad.]]></description>
+      <pubDate>Thu, 28 Jul 2016 08:02:00 +0000</pubDate>
+      <link>https://theflatearthsociety.org/home/index.php/blog/early-flat-earth-theory</link>
+      <guid>https://theflatearthsociety.org/home/index.php/blog/early-flat-earth-theory</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>The Flat Earth Society Welcomes B.o.B</title>
+      <description><![CDATA[Rapper, Musician and Producer B.o.B. accepted membership to The Flat Earth Society by its Secretary John Davis while in Knoxville, TN on his STFU tour. Known for his song "Airplanes", BoB has shaken the boat lately with his vocal views on the Flat Earth.]]></description>
+      <pubDate>Thu, 28 Jul 2016 07:56:00 +0000</pubDate>
+      <link>https://theflatearthsociety.org/home/index.php/blog/bob-bobby-ray-simmons-jr-flat-earth-society</link>
+      <guid>https://theflatearthsociety.org/home/index.php/blog/bob-bobby-ray-simmons-jr-flat-earth-society</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Einstein's Relativity Proves The Earth is Flat</title>
+      <description><![CDATA[Using only Newton's laws and an of Einstein's non-euclidean space we use a thought experiment concerning satellites to show the Earth is indeed Flat from inertial frames of reference.]]></description>
+      <pubDate>Mon, 23 May 2016 04:06:00 +0000</pubDate>
+      <link>https://theflatearthsociety.org/home/index.php/blog/einsteins-relativity-proves-earth-flat</link>
+      <guid>https://theflatearthsociety.org/home/index.php/blog/einsteins-relativity-proves-earth-flat</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>The Mathematics of the Infinite Flat Earth</title>
+      <description><![CDATA[A brief look into some of the mathematics behind the infinite flat earth. We examine the case of the infinite plane using a Gaussian Pillbox to show its finite gravitational pull. Additionally, we look at its stability answering the question "Why would a flat earth not form into a sphere?"]]></description>
+      <pubDate>Mon, 16 May 2016 12:37:00 +0000</pubDate>
+      <link>https://theflatearthsociety.org/home/index.php/blog/infinite-flat-earth-mathematics</link>
+      <guid>https://theflatearthsociety.org/home/index.php/blog/infinite-flat-earth-mathematics</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
