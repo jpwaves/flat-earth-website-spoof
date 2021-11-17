@@ -1,1 +1,40 @@
-.front-page .header-logo{border:none!important;background:0 0!important}footer #scroll-page-top a{background-image:url(img/page_top_arrow.png)!important}header,.header-not-home{background-size:cover;background-image:url(../../../../../../../www.theflatearthsociety.org/FE-Backdrop-Mid.jpg);height:100vh}.ccm-block-social-links a{border:none!important}.ccm-block-social-links{margin:0!important}.header-navi{margin:0!important}.header .header-logo{margin-bottom:10px!important;margin-left:0!important;margin-right:0!important;margin-top:10px!important}.text-white{color:#fff!important}header h3{color:#fff!important}.header-not-home header a{color:#fff!important}a:hover{color:auto!important}
+.front-page .header-logo {
+  border: none !important;
+  background: 0 0 !important;
+}
+footer #scroll-page-top a {
+  background-image: url(img/page_top_arrow.png) !important;
+}
+header,
+.header-not-home {
+  background-size: cover;
+  background-image: url("../../../../../FE-Backdrop-Mid.jpg");
+  height: 100vh;
+}
+.ccm-block-social-links a {
+  border: none !important;
+}
+.ccm-block-social-links {
+  margin: 0 !important;
+}
+.header-navi {
+  margin: 0 !important;
+}
+.header .header-logo {
+  margin-bottom: 10px !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  margin-top: 10px !important;
+}
+.text-white {
+  color: #fff !important;
+}
+header h3 {
+  color: #fff !important;
+}
+.header-not-home header a {
+  color: #fff !important;
+}
+a:hover {
+  color: auto !important;
+}
